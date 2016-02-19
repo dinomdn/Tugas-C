@@ -6,16 +6,16 @@ int main ()
 	char a,b;
 	int p;
 	printf("Dino Ramadhan\n");
-	printf("14.111.2249");
+	printf("14.111.2249\n");
 	printf("Demo Struktur Kondisi\n");
 	printf("----------------------\n");
 	printf("Masukkan bilangan asli 1 : ");
 	scanf("%s",&a);
-	x =a;
+	w =a;
 	switch(w)
     		{
     		case 48:
-				w = 0;
+			w = 0;
 			break;
 			case 49:
 				w = 1;
@@ -49,7 +49,7 @@ int main ()
 			}
 	printf("Masukkan bilangan asli 2 : ");
 	scanf("%s",&b);
-	y =b;
+	x =b;
 			switch (x)
 			{
 			case 48:
