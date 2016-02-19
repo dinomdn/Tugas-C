@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
+	printf("Dino Ramadhan\n");
+	printf("14.111.2249\n");
 	int x,y;
 	char a,b;
 	int p;
