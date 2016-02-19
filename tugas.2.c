@@ -34,7 +34,7 @@ int main ()
         pajak=(total)*10/100;
         total_akhir= total+pajak;
         printf("\n");
-        printf("\ntotal paket 1*%d :%d",jumlah Pesanan,total);
+        printf("\ntotal paket 1*%d :%d",jumlah_Pesanan,total);
         printf("\n pajak 10 persen :%d",pajak);
         printf("\njadi, total yang harus anda bayar :%d",total_akhir);
         printf("\n");
@@ -53,7 +53,7 @@ int main ()
         pajak=(total)*10/100;
         total_akhir= total+pajak;
         printf("\n");
-        printf("\ntotal paket 1*%d :%d",jumlah Pesanan,total);
+        printf("\ntotal paket 1*%d :%d",jumlah_Pesanan,total);
         printf("\n pajak 10 persen :%d",pajak);
         printf("\njadi, total yang harus anda bayar :%d",total_akhir);
         printf("\n");
@@ -71,7 +71,7 @@ int main ()
         pajak=(total)*10/100;
         total_akhir= total+pajak;
         printf("\n");
-        printf("\ntotal paket 1*%d :%d",jumlah Pesanan,total);
+        printf("\ntotal paket 1*%d :%d",jumlah_Pesanan,total);
         printf("\n pajak 10 persen :%d",pajak);
         printf("\njadi, total yang harus anda bayar :%d",total_akhir);
         printf("\n");
